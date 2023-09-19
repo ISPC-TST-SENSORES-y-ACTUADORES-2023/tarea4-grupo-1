@@ -2,6 +2,6 @@
 
 
 
-e -  Regístrese en AWS Cloud 
+**E -  Regístrese en AWS Cloud** 
  
-f -  Regístrese en Arduino Cloud
+**F -  Regístrese en Arduino Cloud**

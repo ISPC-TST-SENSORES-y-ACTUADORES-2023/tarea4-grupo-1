@@ -13,3 +13,10 @@
 ##
 ##
 ##
+#CUENTAS CREADAS EN Aws
+## Nombre de alumno - nombre de usuario en "AWS"
+## Barea, Silvana del Pilar - "recursosssbb"
+##
+##
+##
+##
